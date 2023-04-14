@@ -1,7 +1,9 @@
 # cs4279
 
 cd Desktop
+
 sudo apt-get install cmake build-essential git libopencv-dev libtclap-dev libmagic-dev
+
 git clone https://github.com/AlexeyAB/darknet.git
 cd darknet
 nano Makefile
