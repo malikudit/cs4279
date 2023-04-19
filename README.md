@@ -48,7 +48,7 @@ sudo dpkg -i darkhelp*.deb
 
 Now, cd back to your Desktop, and clone my repo:
 ```
-git clone https://github.com/malikudit/cs4279.git
+git clone https://github.com/malikudit/license-plate-recognition-cs4279-project.git
 
 cd cs4279
 
